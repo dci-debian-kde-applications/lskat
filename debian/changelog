@@ -1,4 +1,4 @@
-lskat (4:4.10.2-1) UNRELEASED; urgency=low
+lskat (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
 
