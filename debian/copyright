@@ -1,0 +1,144 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: lskat
+Upstream-Contact: Albert Astals Cid <aacid@kde.org>
+                  Wolfgang Rohdewald <wolfgang@rohdewald.de>
+Source: http://www.kde.org/download/
+
+Files: *
+Copyright: 1995-2007, Martin Heni <kde@heni-online.de>
+License: GPL-2+
+
+Files: doc/*
+Copyright: 2000-2007, Martin Heni <kde@heni-online.de>
+License: GFDL-1.2+
+
+Files: debian/*
+Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+License: GPL-2+
+
+Files: *.png
+       *.svg
+       *.svgz
+       *.xpm
+Copyright: 2007, Eugene Trounev <eugene.trounev@gmail.com>
+License: GPL-2+
+
+Files: src/abstractdisplay.cpp
+       src/abstractdisplay.h
+       src/abstractengine.cpp
+       src/abstractengine.h
+       src/abstractinput.cpp
+       src/abstractinput.h
+       src/aiinput.cpp
+       src/aiinput.h
+       src/cardsprite.cpp
+       src/cardsprite.h
+       src/config_two.cpp
+       src/config_two.h
+       src/deck.cpp
+       src/deck.h
+       src/display_intro.cpp
+       src/display_intro.h
+       src/display_two.cpp
+       src/display_two.h
+       src/engine_two.cpp
+       src/engine_two.h
+       src/gameview.cpp
+       src/gameview.h
+       src/lskatglobal.h
+       src/main.cpp
+       src/mainwindow.cpp
+       src/mainwindow.h
+       src/mouseinput.cpp
+       src/mouseinput.h
+       src/namedialogwidget.cpp
+       src/namedialogwidget.h
+       src/pixmapsprite.cpp
+       src/pixmapsprite.h
+       src/player.cpp
+       src/player.h
+       src/scoresprite.cpp
+       src/scoresprite.h
+       src/textsprite.cpp
+       src/textsprite.h
+       src/thememanager.cpp
+       src/thememanager.h
+Copyright: 1995-2007, Martin Heni <kde@heni-online.de>
+License: LGPL-2+
+
+Files: src/fromlibkdegames/cardcache.cpp
+       src/fromlibkdegames/cardcache.h
+       src/fromlibkdegames/cardcache_p.h
+       src/fromlibkdegames/carddeckinfo.cpp
+       src/fromlibkdegames/carddeckinfo.h
+       src/fromlibkdegames/carddeckinfo_p.h
+       src/fromlibkdegames/kcarddialog.cpp
+       src/fromlibkdegames/kcarddialog.h
+Copyright: 2008, Andreas Pakulat <apaku@gmx.de>
+License: LGPL-2
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General Public
+ License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+License: GFDL-1.2+
+ Permission is granted to copy, distribute and/or modify this document
+ under the terms of the GNU Free Documentation License, Version 1.2
+ or any later version published by the Free Software Foundation;
+ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+ A copy of the license is included in the section entitled "GNU
+ Free Documentation License".
+ .
+ On Debian systems, the complete text of the GNU Free Documentation
+ License version 1.2 can be found in "/usr/share/common-licenses/GFDL-1.2".
+
+License: LGPL-2+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public License
+ along with this library; see the file COPYING.LIB.  If not, write to
+ the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the complete text of the GNU Library General Public
+ License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+
+License: LGPL-2
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License version 2 as published by the Free Software Foundation.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public License
+ along with this library; see the file COPYING.LIB.  If not, write to
+ the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the complete text of the GNU Library General Public
+ License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+
