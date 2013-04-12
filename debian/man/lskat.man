@@ -13,11 +13,17 @@ Every player has a set of cards in front of him/her, half of them
 covered and half of them open. Both players try to win more than 60 of
 the 120 possible points. After 16 moves all cards are played and the
 game ends.
-.so kdeopt.part
-.SH PROGRAM OPTIONS
+.SH OPTIONS
 .TP
-.B -d, --debug \fI<level>\fB
+.B \-d, \-\-debug \fI<level>\fB
 Enter debug level.
+.TP
+.B \-\-skipintro
+Skip intro animation.
+.TP
+.B --demo
+Run game in demo (autoplay) mode.
+.so kdeopt.part
 .SH SEE ALSO
 More detailed user documentation is available from
 .BR help:/lskat
