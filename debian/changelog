@@ -1,11 +1,11 @@
-lskat (4:4.12.4-1~) UNRELEASED; urgency=medium
+lskat (4:4.12.4-1) unstable; urgency=medium
 
   * Do not disable an empty test set.
   * Bump Standards-Version to 3.9.5, no changes needed.
   * New upstream release.
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Apr 2014 17:06:12 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Apr 2014 12:25:38 +0200
 
 lskat (4:4.11.3-1) unstable; urgency=low
 
