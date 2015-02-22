@@ -1,9 +1,15 @@
+lskat (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (14.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 20:22:00 +0100
+
 lskat (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
-    
+
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:03:50 -0800
 
 lskat (4:14.12.0-0ubuntu1) vivid; urgency=medium
@@ -297,4 +303,3 @@ lskat (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 18:12:08 +0000
-
