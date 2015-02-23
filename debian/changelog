@@ -1,9 +1,9 @@
-lskat (4:14.12.2-1~) UNRELEASED; urgency=medium
+lskat (4:14.12.2-1) experimental; urgency=medium
 
   * New upstream release (14.12.2).
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 20:22:00 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 23 Feb 2015 09:14:51 +0100
 
 lskat (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
