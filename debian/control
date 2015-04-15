@@ -14,7 +14,7 @@ Build-Depends: cmake,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.11),
                kdelibs5-dev,
-               libkdegames-dev (>= 4:14.12.3),
+               libkdegames-dev (>= 4:15.04.0),
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
