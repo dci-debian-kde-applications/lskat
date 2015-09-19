@@ -1,8 +1,8 @@
-lskat (4:15.08.0-1~) UNRELEASED; urgency=medium
+lskat (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 15:16:40 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:11:06 +0200
 
 lskat (4:14.12.2-1) experimental; urgency=medium
 
