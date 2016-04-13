@@ -1,3 +1,11 @@
+lskat (4:15.12.0-2~1.gbp875c9a) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @875c9ab77c6c369851048b4ac56ac193305c6f94 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:59:11 +0200
+
 lskat (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
