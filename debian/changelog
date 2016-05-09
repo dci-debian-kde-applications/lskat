@@ -1,11 +1,19 @@
-lskat (4:16.04.0-1~1.gbpfac018) UNRELEASED; urgency=medium
+lskat (4:16.04.0-1~2.gbp521b5f) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @521b5f82970bcc927feb4f7f89585218b7d37371 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @fac018126ce9365fa61e00f8dcc7fe45c6818cd9 **
 
   * Bump Standards-Version to 3.9.8
   * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 03:57:17 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:57:19 +0200
 
 lskat (4:15.12.0-1) experimental; urgency=medium
 
