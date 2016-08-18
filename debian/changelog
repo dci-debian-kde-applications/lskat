@@ -1,3 +1,11 @@
+lskat (4:16.08.0-1~1.gbp4373b4) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @4373b4778f571eb37964bff88886ab35e9830726 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 21:57:17 +0200
+
 lskat (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
