@@ -15,6 +15,7 @@ Build-Depends: cmake,
                extra-cmake-modules,
                libkf5kdegames-dev,
                libphonon4qt5-dev,
+               libqt5svg5-dev,
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.8
 Homepage: http://games.kde.org/
