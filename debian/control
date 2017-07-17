@@ -12,9 +12,9 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
-               kde-sc-dev-latest (>= 4:4.11),
-               kdelibs5-dev,
-               libkdegames-dev (>= 4:14.12.2),
+               extra-cmake-modules,
+               libkf5kdegames-dev,
+               libphonon4qt5-dev,
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.8
 Homepage: http://games.kde.org/
