@@ -16,7 +16,7 @@ Build-Depends: cmake,
                libkf5crash-dev,
                libkf5doctools-dev,
                libkf5kdegames-dev,
-               libkf5notify-dev,
+               libkf5notifyconfig-dev,
                libphonon4qt5-dev,
                libqt5svg5-dev,
                pkg-kde-tools (>= 0.14)
