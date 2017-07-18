@@ -27,7 +27,10 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/lskat.git
 
 Package: lskat
 Architecture: any
-Depends: kdegames-card-data (>= 4:4.10), ${misc:Depends}, ${shlibs:Depends}
+Depends: kdegames-card-data (>= 4:4.10),
+         kdegames-card-data-kf5,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Recommends: khelpcenter
 Description: Lieutnant Skat card game
  Lieutnant Skat is a simplified variant of the Skat card game for two players.
