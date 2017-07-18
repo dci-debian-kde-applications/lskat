@@ -3,5 +3,6 @@ usr/share/applications/org.kde.lskat.desktop
 usr/share/doc/HTML/en/lskat/
 usr/share/icons/hicolor/
 usr/share/kxmlgui5/lskat/lskatui.rc
+usr/share/locale/
 usr/share/lskat/grafix/
 usr/share/metainfo/org.kde.lskat.appdata.xml
