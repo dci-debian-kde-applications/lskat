@@ -1,5 +1,6 @@
 usr/games/lskat
 usr/share/applications/org.kde.lskat.desktop
+usr/share/doc/
 usr/share/doc/HTML/en/lskat/
 usr/share/icons/hicolor/
 usr/share/kxmlgui5/lskat/lskatui.rc
