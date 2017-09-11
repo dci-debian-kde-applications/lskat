@@ -9,7 +9,7 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            George Kiagiadakis <gkiagiad@csd.uoc.gr>,
            Eshat Cakar <info@eshat.de>,
            Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
@@ -19,7 +19,7 @@ Build-Depends: cmake,
                libkf5notifyconfig-dev,
                libphonon4qt5-dev,
                libqt5svg5-dev,
-               pkg-kde-tools (>= 0.14)
+               pkg-kde-tools (>= 0.14),
 Standards-Version: 4.1.0
 Homepage: http://games.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/lskat.git
@@ -27,9 +27,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/lskat.git
 
 Package: lskat
 Architecture: any
-Depends: kdegames-card-data-kf5,
-         ${misc:Depends},
-         ${shlibs:Depends}
+Depends: kdegames-card-data-kf5, ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
 Description: Lieutnant Skat card game
  Lieutnant Skat is a simplified variant of the Skat card game for two players.
