@@ -1,15 +1,17 @@
-lskat (4:17.08.1-1~) UNRELEASED; urgency=medium
+lskat (4:17.08.1-1~1) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.1)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
   * Update build-deps and deps with the info from cmake
+  * Add breaks/replaces against the kde-l10n packages
+  * Update uploaders list as requested by MIA team (Closes: #879411)
 
   [ Jonathan Riddell ]
   * update signing key
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 11 Sep 2017 22:12:34 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:03:50 +0100
 
 lskat (4:17.08.1-0neon) xenial; urgency=medium
 
